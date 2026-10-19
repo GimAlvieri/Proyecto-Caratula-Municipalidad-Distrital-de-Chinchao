@@ -11,6 +11,10 @@ Aplicación web desarrollada para la gestión, personalización, impresión y ex
 - **Exportación a Excel:** Generación de reportes detallados y estructurados mediante ExcelJS.
 - **Sincronización en la Nube:** Integración con **Supabase** para almacenamiento seguro y persistencia de datos.
 
+  ## 👥 Integrantes del Proyecto
+- **Gim Alvieri Ponce Rosas**
+- **Oscar Fidel Cruz Celis**
+
 ## 🛠️ Tecnologías Utilizadas
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla).
 - **Librerías & CDN:** 
